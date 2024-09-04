@@ -151,9 +151,34 @@ else:
 ```
 
 
-## OUTPUT:
+## OUTPUT
 Mention the first and second policies along with its state value function and compare them
+
+## POLICY 1 
+![RL_2 1](https://github.com/user-attachments/assets/c5cd9ace-79c1-42dc-880f-2b18ef61ca2f)
+
+![RL_2 2](https://github.com/user-attachments/assets/3c507427-23a3-41af-86e4-c2f894638fe2)
+
+
+## POLICY 2 
+![RL_2 3](https://github.com/user-attachments/assets/99b60df3-0baf-4708-905f-3015082d9773)
+
+![RL_2 4](https://github.com/user-attachments/assets/66355f35-e765-4e19-b9b3-9cf9fdaf1203)
+
+### STATE VALUE FUNCTION 1 
+
+![RL_2 5](https://github.com/user-attachments/assets/e060453f-277a-4d5f-8922-8d4219885bfd)
+
+
+### STATE VALUE FUNCTION 2 
+![RL_2 6](https://github.com/user-attachments/assets/9c8f3951-442f-45c8-81c4-d938baa9dff3)
+
+
+## COMPARISION 
+
+![RL_2 7](https://github.com/user-attachments/assets/c01feb04-d768-40a6-b44a-aad9ae0d0efd)
+
 
 ## RESULT:
 
-Write your result here
+Therefore a Python program has been developed to evaluate the two policies.
