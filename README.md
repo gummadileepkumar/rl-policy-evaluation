@@ -152,7 +152,6 @@ else:
 
 
 ## OUTPUT
-Mention the first and second policies along with its state value function and compare them
 
 ## POLICY 1 
 ![RL_2 1](https://github.com/user-attachments/assets/c5cd9ace-79c1-42dc-880f-2b18ef61ca2f)
